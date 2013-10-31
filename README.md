@@ -12,6 +12,7 @@ My 8051 Learning Kit, started in 2005.
 ![version 2](photo/mcs51kit-v2-bottom.jpg)
 
 ### version 3.1
+![version 3.1](photo/version3_1.JPG)
 all most perfect version.
 
 
